@@ -1,0 +1,75 @@
+body {
+  background-image: linear-gradient(to bottom, #5ee7df 0%, #b490ca 100%);
+  margin: 0 auto;
+}
+
+.search {
+  display: block;
+  margin: 20px;
+  padding: 20 0;
+  border-style: #000 solid;
+}
+
+.cardBack {
+  display: block;
+  background-color: rgba(255, 255, 255, 0.247);
+  margin: 30px;
+}
+.btn-primary {
+  display: block;
+  margin: 0 auto;
+  float: right;
+}
+h1 {
+  text-align: left;
+  text-decoration: underline #555acd;
+  text-transform: capitalize;
+}
+h5 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+.cardToday {
+  display: block;
+  text-align: left;
+  margin: 20px;
+  background-color: rgba(255, 255, 255, 0.247);
+}
+.units {
+  float: left;
+}
+.fa-cloud-sun {
+  color: #555acd;
+  font-size: 30px;
+}
+
+.fa-sun {
+  font-size: 28px;
+  color: #fecd1a;
+}
+.fa-cloud-sun-rain {
+  font-size: 28px;
+  color: #555acd;
+}
+
+.nextSixDays {
+  display: block;
+  text-align: left;
+  margin: 20px;
+  background-color: rgba(255, 255, 255, 0.247);
+}
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.5rem;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  font-size: 14px;
+}
+.btn-primary {
+  text-align: center;
+}
