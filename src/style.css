@@ -3,6 +3,12 @@ body {
   margin: 0 auto;
 }
 
+.container {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .search {
   display: block;
   margin: 20px;
@@ -20,6 +26,7 @@ body {
   margin: 0 auto;
   float: right;
 }
+
 h1 {
   text-align: left;
   text-decoration: underline #555acd;
